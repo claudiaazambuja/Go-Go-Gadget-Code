@@ -1,18 +1,28 @@
 # Go-Go-Gadget-Code
 
-myapp/
+## 📂 Estrutura do Projeto
+
+
+```
+Go-Go-Gadget-Code/
 │── main.go
 │── go.mod
 │── config/
-│   ├── config.go
+│ ├── config.go
 │── handlers/
-│   ├── user_handler.go
+│ ├── user_handler.go
 │── models/
-│   ├── user.go
+│ ├── user.go
 │── repository/
-│   ├── user_repository.go
+│ ├── user_repository.go
 │── services/
-│   ├── user_service.go
+│ ├── user_service.go
+```
 
+  
+## 🚀 Rotas Disponíveis
 
-  - get '_/users'
+### **Obter usuários**
+- **Rota:** `GET /users`
+  ```sh
+  curl http://localhost:8080/users
