@@ -64,5 +64,4 @@ Sinta-se à vontade para abrir issues e enviar pull requests para melhorias no p
 
 ---
 
-Esse README fornece uma visão geral clara sobre o projeto, as tecnologias usadas e os próximos passos de desenvolvimento. Caso tenha mais detalhes sobre alguma funcionalidade específica, podemos refiná-lo ainda mais!
 
